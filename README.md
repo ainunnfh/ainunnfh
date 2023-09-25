@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Final year Software Engineering student at IPB Vocational School<br>💻Currently working at PT. Amerta Indah Otsuka<br>👩‍💻Never stop ngoding even you got nothing🥂<br><br><br>
+🎓Final year Software Engineering student at IPB Vocational School<br>💻Currently working at PT. Amerta Indah Otsuka<br>👩‍💻Just keep going even you got nothing🥂<br><br><br>
 
 
 ## 🌐 Socials:
