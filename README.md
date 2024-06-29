@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Final year Software Engineering student at IPB University<br>👨‍💻Explore My Work: https://ainunnfh.showwcase.com<br>⭐Just keep learning even you got nothing!<br><br>
+🎓Final year Software Engineering student at IPB University<br>👨‍💻Explore My Work: https://ainunnfh.showwcase.com<br>⭐Just keep learning even you got nothing<br><br>
 
 
 ## 🌐 Socials:
