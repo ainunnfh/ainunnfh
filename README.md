@@ -1,5 +1,5 @@
 # ✨ About Me:
-👩‍🎓Fresh Graduate of Software Engineering IPB University<br>👉Explore my work: https://portfolio-of-ainun-nafiah.vercel.app/ <br>🎯Per Aspera Ad Astra: through hardship to the stars⭐</br>
+👩‍🎓Fresh Graduate of Software Engineering IPB University<br>Explore my work: https://portfolio-of-ainun-nafiah.vercel.app/ <br>🎯Per Aspera Ad Astra: through hardship to the stars⭐</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ainunnfh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ainun-nafiah) 
