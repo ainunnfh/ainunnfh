@@ -2,8 +2,6 @@
 👩‍🎓IPB University Software Engineering Graduated
 <br>💻Explore my work: https://portfolio-of-ainun-nafiah.vercel.app/
 <br>
-🎨My another work: https://www.frontendmentor.io/profile/ainunnfh
-<br>
 Per Aspera Ad Astra: through hardship to the stars⭐</br>
 
 ## 🌐 Socials:
