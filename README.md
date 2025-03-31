@@ -1,7 +1,6 @@
 # ✨ About Me:
 👩‍🎓IPB University Software Engineering Graduated
-<br>
-⭐Explore my work: https://www.canva.com/design/DAGhEPJIXnQ/kHVr05GeE0PFbUlfQYRrvw/edit?utm_content=DAGhEPJIXnQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</br>
+</br>
 💫 Design. Develop. Delight</br>
 
 ## 🌐 Socials:
