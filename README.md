@@ -1,5 +1,5 @@
 # ✨ About Me:
-👩‍🎓IPB University Software Engineering Graduated
+👩‍🎓 IPB University Software Engineering Graduated
 </br>
 💫 Design. Develop. Delight.</br>
 
